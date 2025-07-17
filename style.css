@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fb;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #222;
+  }
+  
+  h1 span {
+    color: #e74c3c;
+  }
+  
+  h2 {
+    margin-top: 30px;
+    color: #444;
+  }
+  
+  .skills {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .skills li {
+    display: inline-block;
+    background-color: #e0e0e0;
+    padding: 8px 12px;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .profile {
+    margin-top: 20px;
+    max-width: 200px;
+    border-radius: 10px;
+  }
+  .social {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .social a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .social a:hover {
+    background-color: #2980b9;
+  }
+  
