@@ -79,3 +79,21 @@ body {
     background-color: #2980b9;
   }
   
+  a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 8px;
+    background-color: #007bff;
+    margin: 5 px;
+    display: inline-block;
+  }
+
+  a:hover{
+    background-color: #0056b3;
+  }
+
+#project{
+    margin-right: 50px;
+}
+
+
